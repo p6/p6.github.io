@@ -1,6 +1,5 @@
 layout: page
 title: "About | Pavan Keshavamurthy"
-permalink: about.html
 ---
 
 

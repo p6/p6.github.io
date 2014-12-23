@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            grahana
-tagline:          'grahana'
-description:      'Resurrected blog of Pavan K Murthy: Thoughts on stuff.'
+tagline:          'Pavan Keshavamurthy - Hacker, Slacker, Backpacker'
+description:      'Resurrected blog of Pavan K Murthy; Thoughts on stuff.'
 url:              http://p6.github.io
 baseurl:          /
 
