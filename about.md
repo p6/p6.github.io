@@ -1,15 +1,19 @@
+layout: page
+title: "About | Pavan Keshavamurthy"
+permalink: about.html
+---
+
+
 Summary
 =======
 
-/home/p6/public_html
-
-{Developer, Backpacker, Dilettante}
+p6: (p) - {Developer, Backpacker, Dilettante}
 
 grahaNa (n: seize/consume, meta: eclipse) - is a weblog of musings - 
 usually on - Code, Technology, India, History, Culture, Arts.
 
-Work
-====
+Work & Startups
+==============
 
 Presently: Mukti Lifestyle - a new age technology incubator with
 a portfolio of propreitary & funded digital businesses.
@@ -31,7 +35,7 @@ intersection of C++ & JavaScript" (sic). JavaScript has been a
 reluctant love story.
 
 I have mentionable inclination towards open-source software: particularly -
-ArchLinux, Vim, Drupal & Node.js. I've contributed / maintained code on a 
+ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on a 
 bunch of projects (much less than I'd like to, though).
 
 I have amateur interest in TCS, Math & Functional Programming.
