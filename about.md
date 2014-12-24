@@ -7,9 +7,9 @@ title: "Bio"
 
 [_the author being blown away by a battery while valiantly clutching on to a lens cap; Chitradurga, C 2012_]
 
-p6: (p) - internet pseudonym of Pavan Keshavamurthy; {Developer, Wanderer, Dilettante}
+**p6** - _p: - interweb alter-ego of Pavan Keshavamurthy._
 
-grahaNa (n: seize/consume, meta: eclipse) - is a weblog of musings - usually on - Technology, OSS, India, History, Culture, Arts & ಠ_ಠ.
+**grahaNa** - _(n: seize/consume, meta: eclipse) - is a weblog of the p6's ephemeral & sustained musings._
 
 Work + Startups
 ===============
@@ -18,7 +18,7 @@ Work + Startups
 
 + Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>}.
 
-+ Previously: a PaaS, web/mobile dev shop startup (twice), a product for CRM, adventure tourism, freelance / consulting.
++ Previously: a PaaS, web/mobile dev shop (twice), a CRM product, adventure tourism, freelance / consulting.
 
 Tech / OSS
 ==========
@@ -34,10 +34,13 @@ Tech / OSS
 Travel
 ======
 
-+ A true soul-calling. My life's most memorable and unique experiences so far have been in the Himalayas; I've trekked in Garhwal (extensively), Kumaon (less) & Eastern Himalaya (few);
++ One true soul-calling.
+
++ Himalayas - Garhwal (extensivly), Kumaon (less), North East (few).
 
 + Equally enriching experiences in the western ghats of Karnataka (exhaustively), Kerala (less) & Maharashtra (some);
 
++ Historical Places (all over India);
 
 Astronomy
 =========
@@ -62,10 +65,11 @@ Music
 
 + Karnatak Classical Music (mostly), Hindusthani (less), Light Music / Bhavagite (as much), Kannada / Hindi Film Music (up till the 80s) - and _some_ rock music.
 
-+ Can dabble with a few instruments: Vīna (badly, despite formal training), Flute (worse), Violin (Hazardous); My neighbours have complained about all these & my bathroom singing.
++ Can dabble with a few instruments: Vīna (badly, despite formal training), Flute (worse), Violin (Hazardous); My neighbours have complained about all these & bathroom singing.
 
 Reading
 =======
+
 + Kannada: SL Bhairappa, Kuvempu, Tejaswi, Karanth.
 
 + English: Shakespeare, Gabriel Garcia Marquez, Hemmingway, Dickens, Dumas, Mark Twain.
