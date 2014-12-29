@@ -69,7 +69,8 @@ Significant caste diversity is evident considering place names - gANigarahaLLi, 
 
 The British Cantonment was setup in 1806 - was made home to the Madras sappers - a regiment of soldiers recruited primarily from Tamizh nadu. This caused a major linguistic divide in the city - with the pETe area comprising largely of the natives, and the cantonment - primarily of the tamizh speakers, the latter at one point outnumbering the natives. After independence, this has eased out - with Bangalore’s diversity generally amplified by the migration of Kannada speakers from all over Karnataka & others from states across India.
 
-<hr />
+* * *
+
 + All data primarily sourced from Epigraphia Carnatica Bangalore dist.
 + [1] - Likely a principality around Tippur in present day Doddaballapur.
 + [2] - does not appear to be documented in EC.
