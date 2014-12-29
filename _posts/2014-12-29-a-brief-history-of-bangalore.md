@@ -1,6 +1,6 @@
 ---
+title: Brief ethnographic & epigraphic notes on Bangalore
 layout: post
-title: Brief ethnographic & epigraphic notes on Bangalore:
 ---
 
 Early History (AD 400 - 1000)
