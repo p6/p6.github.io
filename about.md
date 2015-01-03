@@ -9,7 +9,7 @@ title: "Bio"
 
 **p6** - _p: - interweb alter-ego of Pavan Keshavamurthy._
 
-**grahaNa** - _(n: seize/consume, meta: eclipse) - is a weblog of the p6's ephemeral & sustained musings._
+**grahaNa** - _n: seize/consume, meta: eclipse - is a weblog of the p6's ephemeral & sustained musings._
 
 Work + Startups
 ===============
@@ -36,9 +36,9 @@ Travel
 
 + One true soul-calling.
 
-+ Himalayas - Garhwal (extensivly), Kumaon (less), North East (few).
++ Himalayas - Garhwal (extensively), Kumaon (less), North East (few).
 
-+ Equally enriching experiences in the western ghats of Karnataka (exhaustively), Kerala (less) & Maharashtra (some);
++ Equally enriching experiences in the western ghats of Karnataka (extensively), Kerala (less) & Maharashtra (some);
 
 + Historical Places (all over India);
 
@@ -72,7 +72,7 @@ Reading
 
 + Kannada: SL Bhairappa, Kuvempu, Tejaswi, Karanth.
 
-+ English: Shakespeare, Gabriel Garcia Marquez, Hemmingway, Dickens, Dumas, Mark Twain.
++ English: Shakespeare, Gabriel Garcia Marquez, Hemingway, Dickens, Dumas, Mark Twain.
 
 + Philosophy: Kant, Nietzshe, Spinoza, Russell, Vivekananda, Ramakrshna, Adi Sankara.
 
