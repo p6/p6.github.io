@@ -25,36 +25,34 @@ Tech / OSS
 
 + Past work: Mostly web applications (on PHP / Python / SQL / NoSQL stacks), mobile - (Android, Cordova) & even _a bit_ of systems programming.
 
-+ Recent times: Mostly node.js / v8 - "at the intersection of C++ & JavaScript" (sic). JavaScript has been a reluctant love story.
++ Recent / present: node.js / v8 - "at the intersection of C++ & JavaScript" (sic). JavaScript has been a reluctant love story.
 
-+ Mentionable inclination towards open-source software: particularly - ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on a bunch of projects (much less than I'd like to, though).
++ ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on a bunch of projects.
 
-+ Hobby interest in TCS, Math & Functional Programming.
++ Interests: Web Dev, DevOps, High performance services/servers.
 
 Travel
 ======
 
-+ One true soul-calling.
-
 + Himalayas - Garhwal (extensively), Kumaon (less), North East (few).
 
-+ Equally enriching experiences in the western ghats of Karnataka (extensively), Kerala (less) & Maharashtra (some);
++ Western ghats - Karnataka (extensively), Kerala (less) & Maharashtra (some);
 
 + Historical Places (all over India);
 
 Astronomy
 =========
 
-+ Lasting interest in gazing stars, borne out of laziness, love for physics & darkness (sic);
++ Observing
 
-+ Efforts towards DIY telescope-making have failed so far (Despite grinding 3 mirrors & polishing two others); Impulse enthusiasm towards visual observing (catalysed by Bortle II or better skies & the availability of large aperture scopes);
++ Photography 
 
-+ In 2006, organizing amateur astronomy meetups gave rise to <a href="http://bas.org.in">The Bangalore Astronomical Society</a> - now a registered NPO with a prolific history of promoting Astronomy in India. I've served since as - founder-secretary, Web Admin & Event Coordinator (among other things); Despite being inactive the last few years, association with BAS continues to be a rewarding experience (and has earned me a treasurable social circle);
++ DIY Mirrors (failures notwithstanding)
+
++ Founding member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a> & founder secretary since 2006. BAS is a leading astronomical outreach and science popularization NPO in India.
 
 Photography
 ===========
-
-+ A lost passion that springs to life once in a a while - especially whilst traveling.
 
 + Tastes = {Celestial, Landscapes, Photo documentaries}.
 
