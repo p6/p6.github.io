@@ -46,10 +46,12 @@ Interests
 
 + Misc: Propensity for spicy vegetarian food, beverages, pointless walking, BMTC buses and cute animals.
 
-Get in touch
+Web presence
 ============
 
-+ IRC: confoocious (freenode / OFTC);
++ IRC/SO/HN: confoocious;
+
++ twitter/github: @p6
 
 + my first name at grahana dot net
 
