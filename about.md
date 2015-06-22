@@ -14,11 +14,11 @@ title: "Bio"
 Work + Startups
 ===============
 
-+ <a href="http://muktilifestyle.com">Mukti Lifestyle</a> - an incubator with a portfolio of proprietary & funded digital businesses.
++ <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of proprietary & funded digital businesses.
 
-+ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>}.
++ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}.
 
-+ Previously: a PaaS, web/mobile dev shop (twice), a CRM product, adventure tourism, freelance / consulting.
++ Previously: a medium-scale PaaS, web/mobile dev shop (twice), a CRM product, adventure tourism, freelance / consulting.
 
 Tech / OSS
 ==========
@@ -29,49 +29,17 @@ Tech / OSS
 
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on a bunch of projects.
 
-+ Interests: Web Dev, DevOps, High performance services/servers.
++ Interests: Functional Programming, Web Dev, DevOps, High performance services/servers.
 
-Travel
-======
-
-+ Himalayas - Garhwal (extensively), Kumaon (less), North East (few).
-
-+ Western ghats - Karnataka (extensively), Kerala (less) & Maharashtra (some);
-
-+ Historical Places (all over India);
-
-Astronomy
+Interests
 =========
 
-+ Observing
++ Astronomy: Observing, Photography, DIY Mirrors; Founding member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a>
 
-+ Photography 
++ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics.
 
-+ DIY Mirrors (failures notwithstanding)
++ Travel: Himalayas (trekked extensively in Garhwal), Western Ghats (trekked extensively in Karnataka, Kerala),  Historical Places (all over India).
 
-+ Founding member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a> & founder secretary since 2006. BAS is a leading astronomical outreach and science popularization NPO in India.
++ Music: Karnatak Classical, Hindusthani, Hindi/Kannada film music of the yore. Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse), Violin (hazardous), Bathroom (and otherwise) singing (mass destruction capabilities); Rather late taste gained for jazz and _some_ rock music.
 
-Photography
-===========
-
-+ Tastes = {Celestial, Landscapes, Photo documentaries}.
-
-+ Canon Loyalist.
-
-Music
-=====
-
-+ Karnatak Classical Music (mostly), Hindusthani (less), Light Music / Bhavagite (as much), Kannada / Hindi Film Music (up till the 80s) - and _some_ rock music.
-
-+ Can dabble with a few instruments: Vīna (badly, despite formal training), Flute (worse), Violin (Hazardous); My neighbours have complained about all these & bathroom singing.
-
-Reading
-=======
-
-+ Kannada: SL Bhairappa, Kuvempu, Tejaswi, Karanth.
-
-+ English: Shakespeare, Gabriel Garcia Marquez, Hemingway, Dickens, Dumas, Mark Twain.
-
-+ Philosophy: Kant, Nietzshe, Spinoza, Russell, Vivekananda, Ramakrshna, Adi Sankara.
-
-+ Comics: Tintin, Asterix, Calvin & Hobbes.
++ Misc: Propensity for spicy vegetarian food, beverages, pointless walking, BMTC buses and cute animals.
