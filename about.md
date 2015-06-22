@@ -20,6 +20,8 @@ Work + Startups
 
 + Previously: a medium-scale PaaS, web/mobile dev shop (twice), a CRM product, adventure tourism, freelance / consulting.
 
++ May have _some_ time for pro-bono (if necessary) work around interesting ideas, philanthropic & local/civic causes.
+
 Tech / OSS
 ==========
 
@@ -40,6 +42,15 @@ Interests
 
 + Travel: Himalayas (trekked extensively in Garhwal), Western Ghats (trekked extensively in Karnataka, Kerala),  Historical Places (all over India).
 
-+ Music: Karnatak Classical, Hindusthani, Hindi/Kannada film music of the yore. Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse), Violin (hazardous), Bathroom (and otherwise) singing (mass destruction capabilities); Rather late taste gained for jazz and _some_ rock music.
++ Music: Karnatak Classical, Hindusthani, Hindi/Kannada film music of the yore. Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse), Violin (hazardous), Bathroom and other singing (mass destruction capabilities); Rather weak taste for jazz and _some_ rock music.
 
 + Misc: Propensity for spicy vegetarian food, beverages, pointless walking, BMTC buses and cute animals.
+
+Get in touch
+============
+
++ IRC: confoocious (freenode / OFTC);
+
++ my first name at grahana dot net
+
+
