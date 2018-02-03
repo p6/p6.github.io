@@ -9,8 +9,8 @@ permalink:        pretty
 title:            grahana
 tagline:          'Pavan Keshavamurthy - Hacker, Slacker, Backpacker'
 description:      'Resurrected blog of Pavan K Murthy; Thoughts on stuff.'
-url:              http://p6.github.io
-baseurl:          /
+url:              http://grahana.net
+baseurl:          http://grahana.net/
 
 author:
   name:           'Pavan K Murthy'
