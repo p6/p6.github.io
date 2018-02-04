@@ -17,6 +17,7 @@ author:
   url:            https://twitter.com/p6
 
 paginate:         5
+excerpt_separator: <!--more-->
 
 # Custom vars
 version:          2.1.0
