@@ -9,7 +9,7 @@ Lately, war history has become a bit of a pet subject.
 
 Specifically so, [Talikote](http://en.wikipedia.org/wiki/Talikota). This war is about an empire that is very close to my heart and culture. Backed with some assorted readings of [Robert Sewell](http://en.wikipedia.org/wiki/Robert_Sewell_%28historian%29), [Krishnaswamy Iyengar](http://en.wikipedia.org/wiki/S._Krishnaswami_Aiyangar) and [Jadunath Sarkar](http://en.wikipedia.org/wiki/Jadunath_Sarkar), I present some thoughts, questions and answers of my own on the battle that changed the history of the south.
 
-
+<!--more-->
 
 **\*\* Ramaraya, culpable to all.**
 
