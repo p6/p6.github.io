@@ -1,5 +1,4 @@
 ---
-
 title: A tale of the puzzling 1/4.  Autoethnography & hobby genetic genomics.
 layout: post
 date: 2018-05-14
