@@ -1,6 +1,7 @@
 ---
 title: A tale of the puzzling 1/4.  Autoethnography & hobby genetic genomics.
 layout: page
+permalink: "autoethnography-puzzling-ancestor-genetic-genomics"
 date: 2018-05-14
 ---
 
