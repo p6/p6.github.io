@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bio"
+menu: main
 ---
 
 <img src="/public/IMG_1123.JPG"/>
