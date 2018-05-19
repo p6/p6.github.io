@@ -1,6 +1,6 @@
 ---
 title: A tale of the puzzling 1/4.  Autoethnography & hobby genetic genomics.
-layout: post
+layout: page
 date: 2018-05-14
 ---
 
@@ -21,7 +21,7 @@ All that is existent 56 years hence his demise are a bunch of facts & anecdotes:
 * His ancestors hailed from below the ghats - in Mangalore
 * He belonged to a family of hotel entrepreneurs 
 * Krishna Rao himself was a Coconut Merchant and a partner in a manDi, along with an Arya-vaisya seTTi. Formerly, this was one Chintapalli Bhaskara Setty and subsequent to his move into Arasikere, one Ramayya Setty
-* He was the only/last of kin and his parents (Father - S| Venkanna) had passed away early. No immediate relatives were known even to his family
+* He was the only/last of kin and his parents (Father - S\| Venkanna) had passed away early. No immediate relatives were known even to his family
 * A man of some taste and reputation: Wrote and spoke English quite well (Amongst other languages, including Kannada, English, Telugu and Tulu)
 * Even had political convictions - non-congress even then: Was a one time councillor in the Arasikere municipality from PSP: Praja Socialist Party!
 * A man of some philanthropy - was known to give (sometimes in an unreasonably generous manner) - he sheltered and provided for a whole group of his sons' maternal cousins since Arasikere had among the better educational facilities in the district at that time. Amongst these beneficiaries was also the eminent Haranahalli Ramaswamy
@@ -30,7 +30,7 @@ All that is existent 56 years hence his demise are a bunch of facts & anecdotes:
 
 However - the summary of the above anecdotes fall short of being able to trace anything more about his origins, excepting speculation. That's all we know.
 
-This raises some fundamental questions: How even did Krishna Rao wed Smt| Nagaratna (a Kamme) in an age (C 1930s) where it was very rare to marry outside of one's subgroup? We could speculate Krishna Rao could have belonged to one of the acceptable subgroups - such as Badaganadu, Hoysala Karnataka or others - but this is unlikely with the known detail about origins in Mangalore - which none of these groups are native to. Even if we were to accept this, it would make it difficult to explain the complete lack of extended relatives in a region that all of these subgroups have significant populations in.
+This raises some fundamental questions: How even did Krishna Rao wed Smt\| Nagaratna (a Kamme) in an age (C 1930s) where it was very rare to marry outside of one's subgroup? We could speculate Krishna Rao could have belonged to one of the acceptable subgroups - such as Badaganadu, Hoysala Karnataka or others - but this is unlikely with the known detail about origins in Mangalore - which none of these groups are native to. Even if we were to accept that he was part of one of these subgroups, it would make it difficult to explain the complete lack of extended relatives in a region that all of these subgroups have significant populations in.
 
 Inter-subgroup marriages between Kammes and others were not unheard of though probably much less acceptable. We can say that it was largely OK with other Kannada smArta subgroups native to the Mysore region (as speculated above) but still very unlikely with other ethno-theological groups (such as mAdhwas or SrivaiShnavas) or alien subgroups (such as sankEtis);
 
