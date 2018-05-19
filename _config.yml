@@ -18,7 +18,7 @@ author:
 
 paginate:         5
 excerpt_separator: <!--more-->
-include: ['_pages']
+# include: ['_pages']
 # Custom vars
 version:          2.1.0
 
