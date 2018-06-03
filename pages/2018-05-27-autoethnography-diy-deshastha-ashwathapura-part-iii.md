@@ -9,7 +9,7 @@ In the previous post, we mentioned about an isolated pool of matches - not relat
 
 Further so - the two new cousins found also matched on the Y-DNA haplogroup and by themselves shared autosomally as much as ~300cM.
 
-At this point, we must mention that Indians on 23andme don't usually respond - we don't know what neuroses and complexes cause this, but presumably some may fear it could exhume property disputes of the past or something questionable to that effect. Fortunately in the subject's case, one of the two aforementioned finds responded first and the other later on - leading to a series of offline meetings that brought forth some interesting discoveries.
+Now, the generalized behaviour we have noticed is that Indians on 23andme don't usually respond - we don't know what neuroses and complexes cause this, but presumably some may fear it could exhume property disputes of the past or something questionable to that effect. Fortunately in the subject's case, one of the two aforementioned finds responded first and the other later on - leading to a series of offline meetings that brought forth some interesting discoveries.
 
 Brief History (by oral tradition):
 
@@ -17,7 +17,7 @@ Brief History (by oral tradition):
 - Their self claimed provenance lies in the vicinity of Ahmadnagar, Maharashtra.
 - Their displacement out of Maharashtra was the result of Malik Kafur's invasion in the 13th century, causing them to migrate southward.
 - Of these, a small set of families -- all rgvEdis of four gotras: Atreya, Srivatsa, Bharadwaja & Kashyapa migrated into lower Karnataka - Chikkamagalur and Shivamogga districts (specifically, Horanadu / Kalasa region);
-- Of these, 8 families migrated down the ghats into the region around the Moodbidri area - in particular, Mijar village, and received a grant by Channaraya Chowta II.
+- Of these, 8 families (_aShTa bhAga_) migrated down the ghats into the region around the Moodbidri area - in particular, Mijar village, and received a grant by Channaraya Chowta II.
 
 Culture:
 
@@ -25,9 +25,9 @@ Culture:
 - Most are bilingual in Tulu.
 - By some claims, retained atleast some usage of Marathi until the early part of 20th century: Particularly words such as _aai_, _vahini_ etc.
 - Still retain some Maharashtrian cuisine, but significantly influenced by coastal style.
-- Have appropriated most Tulunad customs - such as bhuta kola, which they are impartial to. But still have tradition gondhol or _gondala_ which they are indeed partial to - something also shared with Kunbis of the Moodbidri, who appear to have been their camp followers or co-migrants. 
-- Most have traditionally had `bhaTTa` suffixed to their name. In the last century, some have dropped this in favour of the somewhat more fashionable `rao`.
-- Have chief deities of their clans in oral memory, although the location is no longer mappable. For instance, one Atreya clan identifies theirs as _Kamakshi-Mahalakshmi_. There are others for example with _Badami Banashankari_ as their chief deity.
+- Have appropriated most Tulunad customs - such as bhuta kola, which they are impartial to. But still have tradition gondhol or _gondala_ which they are indeed partial to - something also shared with Kunbis of the Moodbidri region, who appear to have been their camp followers or co-migrants. 
+- Most have traditionally suffixed `bhaTTa` to their names. In the last century, some have dropped this in favour of the somewhat more fashionable `rao`.
+- Have chief deities of their clans in oral memory, although the location of the temple is no longer mappable. For instance, one Atreya clan identifies theirs as _Kamakshi-Mahalakshmi_. There are others for example, with _Badami Banashankari_ as their chief deity.
 - Each clan (or sub-clan) usually has an ancestral _devara mane_- house of worship in their village for housing artefacts such as idols & _saligrama_: Here they usually celebrate festivals together (in contrast with families performing vratas individually);
 - Are closely knit socially in recent times. Almost all members are part of an association named as _Deshastha Brahmana Parishad, Ashwathapura_.
 - They patronize the Aswathapura Seetarama temple, apparently setup at the behest and with the blessing of Sri Brahamachaitanya Maharaj, in recent times also graced by the Sringeri jagadugurus. 
@@ -91,7 +91,7 @@ Note that while the subjects and their claimed Gotra is _Srivatsa_, the cousins 
 
 While preferable, it was too expensive to deduce this to a satisfiable degree with deeper Y-SNP testing, hence we attempted to triangulate the relationship with Y-STR @ 37 markers. Following result emerges:
 
-|393|390|19|391|385a|385b|426|388|439|389i|392|389ii-i|458|459a|459b|455|454|447|437|448|449|464a|464b|464c|464d|460|GataH4|YCAIIa|YCAIIb|456|607|576|570|CDYa|CDYb|442|438|
+||393|390|19|391|385a|385b|426|388|439|389i|392|389ii-i|458|459a|459b|455|454|447|437|448|449|464a|464b|464c|464d|460|GataH4|YCAIIa|YCAIIb|456|607|576|570|CDYa|CDYb|442|438|
 |  :------: |  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|  :------:|
 |Group Modal|13|21|15|9|12|18|11|12|11|14|11|16|17|9|9|10|11|23|16|19|29|11|14|16|16|10|11|19|19|16|14|18|16|34|35|11|10|
 |S1 (sibling)|13|21|15|9|12|18|11|12|11|14|11|16|17|9|9|10|11|23|16|19|29|11|14|16|16|10|11|19|19|16|14|18|16|34|36|11|10|
