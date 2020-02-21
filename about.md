@@ -15,7 +15,7 @@ menu: main
 Work + Startups
 ===============
 
-+ <a href="http://srijan.net">Srijan</a> - a global digital transformation boutique with capabilities around DevOps, ML, AI & systems of engagement. 
++ <a href="http://srijan.net">Srijan</a> a full stack, full lifecycle digital platforms shop
 
 + <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of proprietary & funded digital businesses.
 
@@ -34,7 +34,7 @@ Tech / OSS
 
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on several projects.
 
-+ Interests: Scaled Architectures, DevOps, Functional Programming.
++ Interests: Distributed Systems, Functional Programming.
 
 Interests
 =========
@@ -47,7 +47,7 @@ Interests
 
 + Music: Karnatak Classical, Hindusthani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
 
-+ Misc: Propensity for spicy vegetarian food, beverages, pointless walking, BMTC buses and cute animals.
++ Misc: Propensity for spicy vegetarian food, beverages, pointless random walking, BMTC buses and cute animals.
 
 Web presence
 ============
