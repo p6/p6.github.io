@@ -6,9 +6,6 @@ date: 2020-03-31
 ---
 
 
-# A Post-Covid world: Some visions & fancies
-
-
 # Synopsis
 
 Mar 2020 will go down in the collective memory of civilization as the timeline of one of the events that changed the course of the world. To all those alive today, this is an unprecedented crisis that has constituted impact on everyday things ranging from global economy (and the bloodbath thereof) to personal hygiene (fun fact to see how much of this has translated into a hand washing OCD) to mental anxiety; 
