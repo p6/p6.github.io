@@ -15,11 +15,11 @@ menu: main
 Work + Startups
 ===============
 
-+ <a href="http://srijan.net">Srijan</a> a full stack, full lifecycle digital platforms shop
++ <a href="http://srijan.net">Srijan</a> a global full stack digital engineering company; <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Speculatively</a> in a role responsible for <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">business growth</a>, which happens to be an NP-Hard problem. 
 
-+ <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of proprietary & funded digital businesses.
++ <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of proprietary & funded digital businesses. Here, I was a CTO, CPO and handyman all at once. 
 
-+ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}.
++ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch exactly once, or a CTO that never was; Once upon a time, we attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to a loyal audience of traditional music aficionados.
 
 + Previously: a medium-scale PaaS, web/mobile dev shop (twice), a CRM product, adventure tourism, freelance / consulting.
 
@@ -34,9 +34,9 @@ Tech / OSS
 
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on several projects.
 
-+ Interests: Distributed Systems, Functional Programming.
++ Interests: Distributed Systems (Kubernetes, Apache Kafka, Golang), Functional Programming (mostly JS, Some Lisp, Some Haskell)
 
-Interests
+Other Esoteric Interests
 =========
 
 + Astronomy: Observing, Photography, DIY;  *Founding member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a>*
@@ -45,7 +45,7 @@ Interests
 
 + Travel: Himalayas, Western Ghats, Heritage.
 
-+ Music: Karnatak Classical, Hindusthani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
++ Music: Karnatak Classical, Hindustani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
 
 + Misc: Propensity for spicy vegetarian food, beverages, pointless random walking, BMTC buses and cute animals.
 
