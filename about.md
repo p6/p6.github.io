@@ -21,7 +21,7 @@ Work + Startups
 
 + Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch, because it was fun to solve for a media manipulation & streaming problem in the early era of the cloud; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an agein but loyal audience of traditional music aficionados.
 
-+ Previously: a medium-scale PaaS (acquired ever since), web/mobile dev shop (bootstrapepd, twice), a CRM product (open-sourced since), adventure tourism (still going strong, without me), freelance tech consulting (caused limited harm while at it)
++ Previously: a medium-scale PaaS (acquired in 2015), web/mobile dev shop (bootstrapepd X 2), a CRM product (open-source, undead), adventure tourism (still going strong, without me), freelance tech consulting (caused limited harm to customers while at it)
 
 + May have _some_ time for pro-bono (if necessary) work around interesting ideas, philanthropic & local/civic causes. 
 
