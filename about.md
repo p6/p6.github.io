@@ -6,7 +6,7 @@ menu: main
 
 <img src="/public/IMG_1123.JPG"/>
 
-[_the author being blown away by a battery while valiantly clutching on to a lens cap; Chitradurga, C 2012_]
+[_the author being blown away by a battery while valiantly clutching on to a lens cap; Chitradurga, Karnataka; C 2012_]
 
 **p6** - _p: - interweb alter-ego of Pavan Keshavamurthy._
 
@@ -19,9 +19,9 @@ Work + Startups
 
 + <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses. While I joined a CPO with a product management charter, I ended up getting my hands dirty doing practically everything. 
 
-+ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch, because it was fun to solve for a media manipulation & streaming problem in the early era of the cloud; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an agein but loyal audience of traditional music aficionados.
++ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch, because it was fun to solve for a media manipulation & streaming problem in the early era of the cloud; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an ageing, but loyal audience of traditional music aficionados.
 
-+ Previously: a medium-scale PaaS (acquired in 2015), web/mobile dev shop (bootstrapepd X 2), a CRM product (open-source, undead), adventure tourism (still going strong, without me), freelance tech consulting (caused limited harm to customers while at it)
++ Previously: a medium-scale PaaS (acquired in 2015), web/mobile dev shop (bootstrapped, twice), a CRM product (not dead yet), adventure tourism (also alive), freelance tech consulting (caused limited harm to customers while at it)
 
 + May have _some_ time for pro-bono (if necessary) work around interesting ideas, philanthropic & local/civic causes. 
 
@@ -34,7 +34,7 @@ Tech / OSS
 
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on several projects.
 
-+ Interests: Distributed Systems (Kubernetes, Apache Kafka, Golang), Functional Programming (mostly JS, some Haskell)
++ Interests: Enterprise Architecture, Microservices, Distributed Systems (Kubernetes, Apache Kafka, Golang), Functional Programming (mostly JS, some Haskell)
 
 Other Esoteric Interests
 =========
