@@ -14,11 +14,11 @@ menu: main
 
 Work + Startups
 ===============
-+ <a href="https://platformatory.io">Platformatory</a>. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental expertise in Kubernetes, Envoy, Kong, NATS and Apache Kafka.
++ <a href="https://platformatory.io">Platformatory</a>. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental chops with Kubernetes, Envoy, Kong, NATS and Apache Kafka (amongst other things)
   
-+ <a href="http://srijan.net">Srijan</a> a 400 strong, global, digital engineering company; I learned to manage, then un-manage, and finally ended up on the dark side. <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Somewhat accidentally,</a> I'm presently in a role responsible for <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">growth</a>, which happens to be an NP-Hard problem. Over the last 3.5 years, I have learned to use spreadsheets better than I could previously, although I still dwell into using LaTeX to create sales decks.
++ <a href="http://srijan.net">Srijan</a>: Boutique, digital engineering company; Apart from tech, I also tried a hand at management, sales (which is an NP-hard problem), marketing and while at it, gained the unique distinction of creating sales decks with LaTeX. I've since learned a thing or two about what it takes to build services organizations that can (or not) be creative, thoughtful partners in engineering.
 
-+ <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses. While I joined a CPO with a product management charter, I ended up getting my hands dirty doing practically everything. 
++ <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses, some of which could count as good exits. Mukti specialized in building ecosystem businesses. My title was CTO/CPO, but in reality, I ended up as a resident handyman and wrote more code than was necessary (in retrospect); 
 
 + Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch, because it was fun to solve for a media manipulation & streaming problem in the early era of the cloud; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an ageing, but loyal audience of traditional music aficionados.
 
