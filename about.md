@@ -8,13 +8,14 @@ menu: main
 
 [_the author being blown away by a battery while valiantly clutching on to a lens cap; Chitradurga, Karnataka; C 2012_]
 
-**p6** - _p: - interweb alter-ego of Pavan Keshavamurthy._
+**p6** - _p: - interweb alter-ego of Pavan Keshavamurthy._ Typically enjoy random walks & pseudorandom talks involving tech, distributed systems and Indian classical music.
 
 **grahaNa** - _n: seize/consume, meta: eclipse - is a weblog of the p6's ephemeral & sustained musings._
 
 Work + Startups
 ===============
-
++ <a href="https://platformatory.io">Starting up yet again. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental expertise in Kubernetes, Envoy, Kong, NATS and Apache Kafka.
+  
 + <a href="http://srijan.net">Srijan</a> a 400 strong, global, digital engineering company; I learned to manage, then un-manage, and finally ended up on the dark side. <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Somewhat accidentally,</a> I'm presently in a role responsible for <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">growth</a>, which happens to be an NP-Hard problem. Over the last 3.5 years, I have learned to use spreadsheets better than I could previously, although I still dwell into using LaTeX to create sales decks.
 
 + <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses. While I joined a CPO with a product management charter, I ended up getting my hands dirty doing practically everything. 
@@ -41,7 +42,7 @@ Other Esoteric Interests
 
 + Astronomy: Observing, Photography, DIY;  *Founder but lapsed member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a>*
 
-+ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics.
++ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics, Genetics.
 
 + Travel: Himalayas, Western Ghats, Indic heritage.
 
