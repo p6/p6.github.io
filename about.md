@@ -14,7 +14,7 @@ menu: main
 
 Work + Startups
 ===============
-+ <a href="https://platformatory.io">Starting up yet again. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental expertise in Kubernetes, Envoy, Kong, NATS and Apache Kafka.
++ <a href="https://platformatory.io">Platformatory</a>. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental expertise in Kubernetes, Envoy, Kong, NATS and Apache Kafka.
   
 + <a href="http://srijan.net">Srijan</a> a 400 strong, global, digital engineering company; I learned to manage, then un-manage, and finally ended up on the dark side. <a href="https://en.wikipedia.org/wiki/Impostor_syndrome">Somewhat accidentally,</a> I'm presently in a role responsible for <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">growth</a>, which happens to be an NP-Hard problem. Over the last 3.5 years, I have learned to use spreadsheets better than I could previously, although I still dwell into using LaTeX to create sales decks.
 
