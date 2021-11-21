@@ -14,9 +14,9 @@ menu: main
 
 Work + Startups
 ===============
-+ <a href="https://platformatory.io">Platformatory</a>. Global consulting collective. Consulting & tinkering at all levels, but mainly focused on helping silicon valley upstarts & big players alike navigate the cloud native landscape and get things into production. Not-so-accidental chops with Kubernetes, Envoy, Kong, NATS and Apache Kafka (amongst other things)
++ <a href="https://platformatory.io">Platformatory</a>: Consulting collective focusing on modernization & platform engineering. Solve problems intersecting infrastructure, data & applications; Polyglot programming (Python, Lua, Golang, JavaScript), contributions & evangelism towards Apache Kafka, Kong & Kubernetes.
   
-+ <a href="http://srijan.net">Srijan</a>: Boutique, digital engineering company; Apart from tech, I also tried a hand at management, sales (which is an NP-hard problem), marketing and while at it, gained the unique distinction of creating sales decks with LaTeX. I've since learned a thing or two about what it takes to build services organizations that can (or not) be creative, thoughtful partners in engineering.
++ <a href="http://srijan.net">Srijan</a>: Boutique digital engineering company; Apart from tech, I also tried a hand at management, sales (which is an NP-hard problem), marketing and while at it, gained the unique distinction of creating sales decks with LaTeX. I've since learned a thing or two about what it takes to build services organizations that can (or not) be creative, thoughtful partners in engineering.
 
 + <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses, some of which could count as good exits. Mukti specialized in building ecosystem businesses. My title was CTO/CPO, but in reality, I ended up as a resident handyman and wrote more code than was necessary (in retrospect); 
 
