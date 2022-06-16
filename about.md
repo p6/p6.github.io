@@ -14,17 +14,20 @@ menu: main
 
 Work + Startups
 ===============
-+ <a href="https://platformatory.io">Platformatory</a>: Consulting collective focusing on modernization & platform engineering. Solve problems intersecting infrastructure, data & applications; Polyglot programming (Python, Lua, Golang, JavaScript), contributions & evangelism towards Apache Kafka, Kong & Kubernetes.
++ <a href="https://platformatory.io">Platformatory</a>: Consulting collective focusing on modernization, platform architecture & large scale distributed systems engineering. We mostly solve problems intersecting infrastructure, data & applications; We also run tech focused practices centred aroud Apache Kafka, Apache Flink, Kong, Envoy and Kubernetes.
   
-+ <a href="http://srijan.net">Srijan</a>: Boutique digital engineering company; Apart from tech, I also tried a hand at management, sales (which is an NP-hard problem), marketing and while at it, gained the unique distinction of creating sales decks with LaTeX. I've since learned a thing or two about what it takes to build services organizations that can (or not) be creative, thoughtful partners in engineering.
++ <a href="http://srijan.net">Srijan</a>: Medium sized digital boutique servicing everything Digital experience (particularly Enterprise Content Management Systems, but also API Management amongst other things); Apart from tech, I also tried a hand at management, sales (which is an NP-hard problem), marketing and while at it, gained the unique distinction of creating sales decks with LaTeX. I've since learned a thing or two about what it takes to build services organizations that can (or not) be creative, thoughtful partners in engineering.
 
 + <a href="http://muktilifestyle.com">Mukti</a> - an incubator with a portfolio of homegrown & invested digital businesses, some of which could count as good exits. Mukti specialized in building ecosystem businesses. My title was CTO/CPO, but in reality, I ended up as a resident handyman and wrote more code than was necessary (in retrospect); 
 
-+ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Mostly the guy who wrote everything from scratch, because it was fun to solve for a media manipulation & streaming problem in the early era of the cloud; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an ageing, but loyal audience of traditional music aficionados.
++ Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Wrote the original streaming platform from scratch in what was pre-cloud era: Lots of media processing, transcoding for the web and content distribution; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an ageing, but loyal audience of traditional music aficionados.
 
-+ Previously: a medium-scale PaaS (acquired in 2015), web/mobile dev shop (bootstrapped, twice), a CRM product (not dead yet), adventure tourism (also alive), freelance tech consulting (caused limited harm to customers while at it)
-
-+ May have _some_ time for pro-bono (if necessary) work around interesting ideas, philanthropic & local/civic causes. 
++ Less noteworthy / distant past: 
+  + a medium-scale PaaS for node.js (acquired in 2015)
+  + yet another web/mobile dev shop (bootstrapped, twice to revenues, 20+ headcount) 
+  + a CRM product loosely based on SugarCRM (not dead yet)
+  + an adventure tourism company that did ecommerce before it was cool (also alive), 
+  + freelance tech consulting (wrote device drivers, web software, administered servers, what nots)
 
 Tech / OSS
 ==========
@@ -35,16 +38,16 @@ Tech / OSS
 
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on several projects.
 
-+ Interests: Enterprise Architecture, Microservices, Distributed Systems (Kubernetes, Apache Kafka, Golang), Functional Programming (mostly JS, some Haskell)
++ General and Special Interests: Domain Driven Design & Microservices, Distributed Systems (Kubernetes, Apache Kafka), Functional Programming (mostly Lua these days)
 
 Other Esoteric Interests
 =========
 
 + Astronomy: Observing, Photography, DIY;  *Founder but lapsed member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a>*
 
-+ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics, Genetics.
++ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics, Population Genomics.
 
-+ Travel: Himalayas, Western Ghats, Indic heritage.
++ Travel: Himalayas, Western Ghats
 
 + Music: Karnatak Classical, Hindustani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
 
