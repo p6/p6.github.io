@@ -22,34 +22,36 @@ Work + Startups
 
 + Content Media = {<a href="http://radioweb.in/programs">Radioweb Carnatic</a>, <a href="http://bhakti.radioweb.in">Radioweb Bhakti</a>, <a href="http://hindustani.radioweb.in">Radioweb Bhakti</a>}. Wrote the original streaming platform from scratch in what was pre-cloud era: Lots of media processing, transcoding for the web and content distribution; Once upon a time, Radioweb attempted to compete with MIO, Gaana & Spotify. Ever since, we have reconciled to run as a lightweight online radio that caters to an ageing, but loyal audience of traditional music aficionados.
 
-+ Less noteworthy / distant past: 
++ ~~Less noteworthy~~ / distant past: 
   + a medium-scale PaaS for node.js (acquired in 2015)
-  + yet another web/mobile dev shop (bootstrapped, twice to revenues, 20+ headcount) 
-  + a CRM product loosely based on SugarCRM (not dead yet)
-  + an adventure tourism company that did ecommerce before it was cool (also alive), 
-  + freelance tech consulting (wrote device drivers, web software, administered servers, what nots)
+  + yet another web/mobile dev shop (bootstrapped twice to revenues, 20+ headcount) 
+  + an OSS CRM product loosely based on SugarCRM / vtiger, targeting contact centers (not dead yet)
+  + an adventure tourism company (in the Himalayas) that _also_ did ecommerce before it was cool (still alive and thriving)
+  + coder for hire: freelance tech consulting (wrote device drivers, web software, administered servers, what nots for people)
 
 Tech / OSS
 ==========
 
-+ Past work (2005 - 2012): Mostly web applications (on PHP / Python / SQL / NoSQL stacks), mobile - (Android, Cordova) & even _a bit_ of systems programming.
++ Past work (2005 - 2012): Mostly web applications & mobile - (Android, Cordova) & even _a bit_ of systems programming.
 
 + Recent (2012 - 2016): node.js / v8 runtime - "at the intersection of C++ & JavaScript" (sic). JavaScript has been a reluctant love story.
 
++ More Revent (2016 - 2022) - Envoy, Apache Kafka ecosystem, Apache Flink, Kong 
+
 + ArchLinux, Vim, Drupal & Node.js. I've <a href="http://cia.vc/stats/author/p6">contributed / maintained code</a> on several projects.
 
-+ General and Special Interests: Domain Driven Design & Microservices, Distributed Systems (Kubernetes, Apache Kafka), Functional Programming (mostly Lua these days)
++ Special Interests: Domain Driven Design, Distributed Systems, Functional Programming (mostly Lua these days)
 
 Other Esoteric Interests
 =========
 
 + Astronomy: Observing, Photography, DIY;  *Founder but lapsed member of <a href="http://bas.org.in">The Bangalore Astronomical Society</a>*
 
-+ India: Classical literature (Sanskrit, Kannada), History, Epigraphy, Linguistics, Population Genomics.
++ India: Classical literature, Early and Medieval History, Epigraphy, Linguistics, Population Genomics.
 
 + Travel: Himalayas, Western Ghats
 
-+ Music: Karnatak Classical, Hindustani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
++ Music: Karnataka Classical, Hindustani, Hindi/Kannada film music of the yore. *Can dabble with instruments: Vīna (badly, despite formal training), Flute (worse, but no formal training), Violin (hazardous autodidactism), Bathroom and other singing (mass destruction capabilities);*
 
 + Misc: Propensity for spicy vegetarian food ("Andhra grade"), beverages (Mostly non-alcoholic), random walking, BMTC buses and cute furry animals.
 
